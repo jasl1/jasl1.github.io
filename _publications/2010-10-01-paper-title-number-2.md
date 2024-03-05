@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "TSAKE: A topical and structural automatic keyphrase extractor"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2017-08-31-paper-title-number-2
+excerpt: 'This paper introduces TSAKE, a novel approach for automatic keyphrase extraction that leverages both N-gram topical models and co-occurrence graphs. Unlike traditional methods, TSAKE weights edges in the co-occurrence graph using the topic model and applies network analysis to identify finer-grained sub-topics. By incorporating these insights, TSAKE outperforms baseline techniques and state-of-the-art models in keyphrase extraction tasks'
+date: 2017-08-31
+venue: 'Applied Soft Computing'
+paperurl: 'https://doi.org/10.1016/j.asoc.2017.05.014'
+citation: 'Rafiei-Asl, Javad, and Ahmad Nickabadi. "TSAKE: A topical and structural automatic keyphrase extractor." Applied soft computing 58 (2017): 620-630.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper introduces TSAKE, a novel approach for automatic keyphrase extraction that leverages both N-gram topical models and co-occurrence graphs. Unlike traditional methods, TSAKE weights edges in the co-occurrence graph using the topic model and applies network analysis to identify finer-grained sub-topics. By incorporating these insights, TSAKE outperforms baseline techniques and state-of-the-art models in keyphrase extraction tasks
