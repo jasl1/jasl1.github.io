@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 <div class="post-content">
-    <p>The fastest way to contact me is via email: <a href="mailto:javad.rafiei.cs86@gmail.com">javad.rafiei.cs86@gmail.com</a>.</p>
-
+    <p>The fastest way to contact me is via email: <a href="mailto:jasl1@student.gsu.edu">jasl1@student.gsu.edu</a>.</p>
+    <p>Alternative email: <a href="mailto:javad.rafiei.cs86@gmail.com">javad.rafiei.cs86@gmail.com</a>.</p>
+ 
     <h2>Office</h2>
     <div id="office-address">
         <p>Pod#: 6, Floor 6,</p>
