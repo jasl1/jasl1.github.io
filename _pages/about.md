@@ -1,11 +1,7 @@
 ---
 permalink: /
 title: "About me"
-#excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 - Research Scientist at German Research Center for Artificial Intelligence [(DFKI)](https://www.dfki.de/web/), Speech and Language Technology [(SLT)](https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology/) group
