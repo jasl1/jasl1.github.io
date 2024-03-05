@@ -34,8 +34,8 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=rXfZo-8AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/my-orcid?orcid=0000-0002-6154-1068"
-  pubmed           : #
-  researchgate     : # URL
+  pubmed           : # Username
+  researchgate     : # Username
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
