@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -24,11 +24,10 @@ redirect_from:
     </style>
 </head>
 <body>
-    <h1>Curriculum Vitae</h1>
     <div class="section">
         <h2>EDUCATION</h2>
         <ul>
-            <li><strong>Doctor of Philosophy – Computer Science Department</strong><br>2019- December 2023<br>Georgia State University, GPA: 3.77/4.0, Atlanta, GA<br><a href="https://inspire.gsu.edu/">INSPIRE Center</a><br>Dissertation: “Design and Implementation of Robust Deep Neural Networks Against NLP Adversarial Attacks”</li>
+            <li><strong>Doctor of Philosophy – Computer Science Department</strong><br>2019- December 2023<br>Georgia State University, GPA: 3.79/4.0, Atlanta, GA<br><a href="https://inspire.gsu.edu/">INSPIRE Center</a><br>Dissertation: “Design and Implementation of Robust Deep Neural Networks Against NLP Adversarial Attacks”</li>
             <li><strong>Master of Science - School of Electrical and Computer Engineering</strong><br>2011-2014<br>University of Tehran, Medical Image Processing Laboratory, Tehran, Iran<br>Thesis: “Implementation of 3D Visualization for Medical Image Display”</li>
         </ul>
     </div>
