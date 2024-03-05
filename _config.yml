@@ -22,9 +22,9 @@ repository               : "jasl1/jasl1.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Javad Rafiei Asl"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate, Computer Science Department, Georgia State University"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
