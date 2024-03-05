@@ -72,7 +72,7 @@ redirect_from:
             <li>Image Segmentation | 3D Visualization</li>
             <li>Colab</li>
             <li>Matplotlib</li>
-            <li>Java | C# | MCV ASP.net</li>
+            <li>Java | C# | MVC ASP.net</li>
             <li>DBMS | SQL SERVER| SQLite</li>
         </ul>
         <h3>BEGINNER (Rate: 1-5 out of 10)</h3>
