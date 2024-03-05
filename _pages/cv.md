@@ -12,108 +12,105 @@ redirect_from:
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CV Menu</title>
+    <title>CV - Javad Rafiei Asl</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            padding: 20px;
-            background-color: #fff;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            margin-top: 20px;
-        }
-        h1, h2, h3 {
-            margin-top: 0;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .section h2 {
-            border-bottom: 1px solid #ccc;
-            padding-bottom: 10px;
-        }
-        .section ul {
-            list-style: none;
-            padding: 0;
-        }
-        .section ul li {
-            margin-bottom: 10px;
-        }
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h2 { color: #2E5090; }
+        ul { list-style-type: none; }
+        li { margin-bottom: 10px; }
+        .section { margin-bottom: 20px; }
+        .skills li { display: inline-block; margin-right: 10px; }
+        .rating { font-size: 0.8em; }
     </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Curriculum Vitae</h1>
-        
-        <div class="section">
-            <h2>Education</h2>
-            <ul>
-                <li>Doctor of Philosophy – Computer Science Department (2019- December 2023)<br>
-                    Georgia State University, Atlanta, GA<br>
-                    GPA: 3.77/4.0<br>
-                    Dissertation: “Design and Implementation of Robust Deep Neural Networks Against NLP Adversarial Attacks”
-                </li>
-                <li>Master of Science - School of Electrical and Computer Engineering (2011-2014)<br>
-                    University of Tehran, Medical Image Processing Laboratory, Tehran, Iran<br>
-                    Thesis: “Implementation of 3D Visualization for Medical Image Display”
-                </li>
-            </ul>
-        </div>
-        
-        <div class="section">
-            <h2>Technical Skills</h2>
-            <p>Proficient (Rate: 7-9 out of 10): Python 3+, PyTorch, Keras, HPC, ML, AI, NLP, C/C++, ...</p>
-            <p>Intermediate (Rate: 5-7 out of 10): Git, TensorFlow, CNNs, GANs, Data Mining, Linux, ...</p>
-            <p>Beginner (Rate: 1-5 out of 10): Flask, OpenCV, Speech Recognition, Reinforcement Learning, ...</p>
-        </div>
-        
-        <div class="section">
-            <h2>Professional Experience</h2>
-            <ul>
-                <li>Trustworthy AI Graduate Researcher (Full-Time), Georgia State University, Atlanta, GA. (Jan 2020 – Present)<br>
-                    - Developed a universal text representations framework...<br>
-                </li>
-                <li>Information Retrieval Research Assistant (Full-Time), ICT Research Institute of ACECR, Tehran, Iran. (July 2014 – Sep 2016)<br>
-                    - Devised a monolingual (Farsi) and bilingual (English to Farsi) plagiarism detection framework...
-                </li>
-                <li>Machine Vision Graduate Researcher (Full-Time), University of Tehran, Tehran, Iran. (Sep 2011 – Jun 2014)<br>
-                    - Designed and implemented a three-dimensional visualization toolkit using 2D CT medical images...
-                </li>
-            </ul>
-        </div>
-        
-        <div class="section">
-            <h2>Top Publications</h2>
-            <ul>
-                <li>Journal: Asl, Javad Rafiei, Mohammad H. Rafiei, Manar Alohaly, and Daniel Takabi. "A Semantic, Syntactic, And Context-Aware Natural Language Adversarial Example Generator." IEEE Transactions on Dependable and Secure Computing (2024).</li>
-                <li>Conference: Javad Rafiei Asl, Eduardo Blanco, Daniel Takabi, and Zhipeng Cai. “RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning”, Under anonymous submission to a top-tier NLP conference. 2024.</li>
-            </ul>
-        </div>
-        
-        <div class="section">
-            <h2>Teaching Experience</h2>
-            <ul>
-                <li>Georgia State University:<br>
-                    - Lab Teacher Assistant for Data Structure Course, Fall 2019, Fall 2020, Fall 2021<br>
-                    - Lab Teacher Assistant for System-level programming Course, Spring 2020, Spring 2021<br>
-                    - Teacher Assistant for Web Programming Course, Summer 2019
-                </li>
-                <li>University of Applied Science and Technology, Tehran, Iran:<br>
-                    - Lecturer, Text Mining and Analytics, Fall 2016<br>
-                    - Lecturer, Client-Side Programming, Spring 2016
-                </li>
-                <li>University of Tabriz, Tabriz, Iran:<br>
-                    - Teacher Assistant, Introduction to Automata Theory, Languages & Computation, Spring 2009
-                </li>
-            </ul>
-        </div>
+    <h1>Curriculum Vitae</h1>
+    <div class="section">
+        <h2>EDUCATION</h2>
+        <ul>
+            <li><strong>Doctor of Philosophy – Computer Science Department</strong><br>2019- December 2023<br>Georgia State University, GPA: 3.77/4.0, Atlanta, GA<br><a href="https://inspire.gsu.edu/">INSPIRE Center</a><br>Dissertation: “Design and Implementation of Robust Deep Neural Networks Against NLP Adversarial Attacks”</li>
+            <li><strong>Master of Science - School of Electrical and Computer Engineering</strong><br>2011-2014<br>University of Tehran, Medical Image Processing Laboratory, Tehran, Iran<br>Thesis: “Implementation of 3D Visualization for Medical Image Display”</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h2>TECHNICAL SKILLS</h2>
+        <h3>PROFICIENT (Rate: 7-9 out of 10)</h3>
+        <ul class="skills">
+            <li>Python 3+</li>
+            <li>PyTorch | Keras</li>
+            <li>HPC</li>
+            <li>ML | AI | NLP | R&D</li>
+            <li>C/C++</li>
+            <li>Scikit-Learn (Sklearn)</li>
+            <li>Jupyter Notebook</li>
+            <li>Self-Supervised Learning | Semantic Representation</li>
+            <li>OOP</li>
+            <li>NLTK | spaCy</li>
+            <li>Unsupervised Learning</li>
+            <li>Large/Pre-Trained Language Models (LLMs & PLMs)</li>
+            <li>SQL</li>
+            <li>NumPy | Pandas</li>
+            <li>Adversarial Training</li>
+            <li>Self-Attention | Transformers | Generative AI</li>
+            <li>HuggingFace</li>
+            <li>LaTex</li>
+            <li>Lucene | Lemur Toolkit</li>
+            <li>Algorithm | Data Structure | AI Security</li>
+        </ul>
+        <h3>INTERMEDIATE (Rate: 5-7 out of 10)</h3>
+        <ul class="skills">
+            <li>Git | GitHub</li>
+            <li>TensorFlow</li>
+            <li>CNNs | GANs</li>
+            <li>Data Mining | LSA | PLSA | LDA</li>
+            <li>Compilers</li>
+            <li>Shell | Linux</li>
+            <li>CPU | GPU</li>
+            <li>HTML | CSS | JavaScript | Node.js</li>
+            <li>Ubuntu</li>
+            <li>Gephi</li>
+            <li>Distributed Training</li>
+            <li>Image Segmentation | 3D Visualization</li>
+            <li>Colab</li>
+            <li>Matplotlib</li>
+            <li>Java | C# | MCV ASP.net</li>
+            <li>DBMS | SQL SERVER| SQLite</li>
+        </ul>
+        <h3>BEGINNER (Rate: 1-5 out of 10)</h3>
+        <ul class="skills">
+            <li>Flask</li>
+            <li>OpenCV</li>
+            <li>Speech Recognition</li>
+            <li>Reinforcement Learning</li>
+            <li>MATLAB</li>
+            <li>Scala | Spark</li>
+            <li>Prompt Engineering</li>
+            <li>ML Optimization |Computer Vision (CV)</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h2>PROFESSIONAL EXPERIENCE</h2>
+        <ul>
+            <li><strong>Trustworthy AI Graduate Researcher (Full-Time)</strong>, Georgia State University, Atlanta, GA<br>Jan 2020 – Present<br>Developed a universal text representations framework to enhance resilience against adversarial attacks and adversarial NLP tasks. Extended a robust framework for sentence embeddings using self-supervised contrastive pre-training. Designed and implemented a semantic, syntactic, and context-aware generator for natural language adversarial examples.</li>
+            <li><strong>Information Retrieval Research Assistant (Full-Time)</strong>, ICT Research Institute of ACECR, Tehran, Iran<br>July 2014 – Sep 2016<br>Devised a monolingual (Farsi) and bilingual (English to Farsi) plagiarism detection framework for scientific papers and theses. Crafted a source retrieval module for scientific plagiarism detection, implementing an effective keyword extraction method. Achieved third place in the international competition of plagiarism detection: source retrieval, PAN 2015.</li>
+            <li><strong>Machine Vision Graduate Researcher (Full-Time)</strong>, University of Tehran, Tehran, Iran<br>Sep 2011 – Jun 2014<br>Designed and implemented a three-dimensional visualization toolkit using 2D CT medical images.</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h2>TOP PUBLICATIONS</h2>
+        <ul>
+            <li>JOURNAL<br>Asl, Javad Rafiei, Mohammad H. Rafiei, Manar Alohaly, and Daniel Takabi. "A Semantic, Syntactic, And Context-Aware Natural Language Adversarial Example Generator." IEEE Transactions on Dependable and Secure Computing (2024), doi: 10.1109/TDSC.2024.3359817.</li>
+            <li>Rafiei-Asl, Javad, and Ahmad Nickabadi. "TSAKE: A topical and structural automatic keyphrase extractor." Applied soft computing 58 (2017), doi: 10.1016/j.asoc.2017.05.014.</li>
+            <li>CONFERENCE<br>Asl, Javad Rafiei, Eduardo Blanco, and Daniel Takabi. "RobustEmbed: Robust Sentence Embeddings Using Self-Supervised Contrastive Pre-Training." In The 2023 Conference on Empirical Methods in Natural Language Processing. 2023.</li>
+            <li>Rafiei Asl, Javad, Salar Mohtaj, Vahid Zarrabi, and Habibollah Asghari. "Source retrieval plagiarism detection based on noun phrase and keyword phrase extraction—Notebook for PAN at CLEF 2015." In Proceedings of the Conference and Labs of the Evaluation Forum and Workshop (CLEF’15). 2015.</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h2>TEACHING EXPERIENCE</h2>
+        <ul>
+            <li>Georgia State University<br>Lab Teacher Assistant for Data Structure Course, Fall 2019, Fall 2020, Fall 2021<br>Lab Teacher Assistant for System-level programming Course, Spring 2020, Spring 2021<br>Teacher Assistant for Web Programming Course, Summer 2019</li>
+            <li>University of Applied Science and Technology, Tehran, Iran<br>Lecturer, Text Mining and Analytics, Fall 2016<br>Lecturer, Client-Side Programming, Spring 2016</li>
+            <li>University of Tabriz, Tabriz, Iran<br>Teacher Assistant, Introduction to Automata Theory, Languages & Computation, Spring 2009</li>
+        </ul>
     </div>
 </body>
