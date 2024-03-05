@@ -1,12 +1,12 @@
 ---
 title: ""RobustEmbed: Robust Sentence Embeddings Using Self-Supervised Contrastive Pre-Training"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'The paper proposes RobustEmbed, a self-supervised sentence embedding framework aimed at enhancing both generalization and robustness in text representation tasks and adversarial scenarios. By generating high-risk adversarial perturbations and leveraging a novel contrastive objective approach, RobustEmbed effectively learns high-quality sentence embeddings. Experimental results demonstrate its superiority over previous state-of-the-art self-supervised representations, showcasing significant reductions in attack success rates and improvements in semantic textual similarity tasks and transfer tasks.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2023-12-14-paper-title-number-3
+excerpt: 'The paper proposes RobustEmbed, a self-supervised sentence embedding framework aimed at enhancing both generalization and robustness in text representation tasks and adversarial scenarios. By generating high-risk adversarial perturbations and leveraging a novel contrastive objective approach, RobustEmbed effectively learns high-quality sentence embeddings.'
+date: 2023-12-14
+venue: 'Empirical Methods in Natural Language Processing: EMNLP Findings'
+paperurl: 'https://aclanthology.org/2023.findings-emnlp.305'
+citation: 'Asl, Javad Rafiei, Eduardo Blanco, and Daniel Takabi. "RobustEmbed: Robust Sentence Embeddings Using Self-Supervised Contrastive Pre-Training." In The 2023 Conference on Empirical Methods in Natural Language Processing. 2023.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The paper proposes RobustEmbed, a self-supervised sentence embedding framework aimed at enhancing both generalization and robustness in text representation tasks and adversarial scenarios. By generating high-risk adversarial perturbations and leveraging a novel contrastive objective approach, RobustEmbed effectively learns high-quality sentence embeddings.
