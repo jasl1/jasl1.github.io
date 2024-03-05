@@ -18,4 +18,4 @@ News
 ======
 - **[January 2024]** Our paper titled [A Semantic, Syntactic, And Context-Aware Natural Language Adversarial Example Generator](https://ieeexplore.ieee.org/abstract/document/10416371) is published on the [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858).
 - **[December 2023]** Our paper on robust text representation is accepted by [Empirical Methods in Natural Language Processing) (EMNLP Findings). The preprint version is accessible via [this link](https://aclanthology.org/2023.findings-emnlp.305/).
-- The source code for our robust text representation is available in the [RobustEmbed repository](https://github.com/jasl1/RobustEmbed).
+- **[October 2023]** The source code for our robust text representation is available in the [RobustEmbed repository](https://github.com/jasl1/RobustEmbed).
