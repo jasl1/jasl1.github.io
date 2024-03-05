@@ -21,7 +21,7 @@ repository               : "jasl1/jasl1.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   name             : "Javad Rafiei Asl"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   pronouns         : # example: "she/her"  
   bio              : ""PhD Candidate, Computer Science Department, Georgia State University""
   location         : "Atlanta, USA"
