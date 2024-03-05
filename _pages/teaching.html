@@ -5,8 +5,47 @@ permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+    <title>Teaching Experience</title>
+    <style>
+        /* Style for the menu */
+        .menu {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        /* Style for the menu items */
+        .menu li {
+            padding: 10px 0;
+        }
+        /* Style for sub-items */
+        .sub-items {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Teaching Experience</h2>
+    <ul class="menu">
+        <li>Georgia State University
+            <ul class="sub-items">
+                <li>Lab Teacher Assistant for Data Structure Course, Fall 2019, Fall 2020, Fall 2021</li>
+                <li>Lab Teacher Assistant for System-level programming Course, Spring 2020, Spring 2021</li>
+                <li>Teacher Assistant for Web Programming Course, Summer 2019</li>
+            </ul>
+        </li>
+        <li>University of Applied Science and Technology, Tehran, Iran
+            <ul class="sub-items">
+                <li>Lecturer, Text Mining and Analytics, Fall 2016</li>
+                <li>Lecturer, Client-Side Programming, Spring 2016</li>
+            </ul>
+        </li>
+        <li>University of Tabriz, Tabriz, Iran
+            <ul class="sub-items">
+                <li>Teacher Assistant, Introduction to Automata Theory, Languages & Computation, Spring 2009</li>
+            </ul>
+        </li>
+    </ul>
