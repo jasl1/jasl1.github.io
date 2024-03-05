@@ -4,9 +4,9 @@ title: "About me"
 author_profile: true
 ---
 
-- Research Scientist at German Research Center for Artificial Intelligence [(DFKI)](https://www.dfki.de/web/), Speech and Language Technology [(SLT)](https://www.dfki.de/web/forschung/forschungsbereiche/speech-and-language-technology/) group
-- Ph.D. candidate in Computer Science at [Technische Universität Berlin](https://www.tu-berlin.de/), Department of [Electrical Engineering and Computer Science](https://www.eecs.tu-berlin.de/menue/fakultaet_iv/parameter/en)
-- Advised by Prof. [Sebastian Möller](https://www.qu.tu-berlin.de/menue/team/professur/), [Quality and Usability lab](https://www.qu.tu-berlin.de/menue/qu/parameter/en/)
+- Research Scientist at INformation Security and Privacy: Interdisciplinary Research and Education [(INSPIRE)](https://inspire.gsu.edu/) center
+- Ph.D. candidate in Computer Science at [Georgia State University](https://www.gsu.edu/), Department of [Computer Science](https://csds.gsu.edu/)
+- Advised by Prof. [Daniel Takabi](https://www.odu.edu/article/odu-names-daniel-takabi-as-director-for-school-of-cybersecurity), and Prof. [Zhipeng Cai](https://cai.csgsu.org/)
 
 
 Research Interest: Natural Language Processing, Information Retrieval <br/>
