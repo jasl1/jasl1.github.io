@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: ""RobustEmbed: Robust Sentence Embeddings Using Self-Supervised Contrastive Pre-Training"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'The paper proposes RobustEmbed, a self-supervised sentence embedding framework aimed at enhancing both generalization and robustness in text representation tasks and adversarial scenarios. By generating high-risk adversarial perturbations and leveraging a novel contrastive objective approach, RobustEmbed effectively learns high-quality sentence embeddings. Experimental results demonstrate its superiority over previous state-of-the-art self-supervised representations, showcasing significant reductions in attack success rates and improvements in semantic textual similarity tasks and transfer tasks.'
 date: 2015-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
