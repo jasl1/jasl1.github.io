@@ -16,7 +16,7 @@ Previously, I participated in an industrial project aimed at detecting various t
 
 News
 ======
-- **[March 2024]** Our paper titled _RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning_ has been accepted by [Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics](https://2024.naacl.org/). The preprint version is accessible via [this link](https://arxiv.org/abs/2403.11082).
+- **[March 2024]** Our paper titled "_RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning_" has been accepted by [Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics](https://2024.naacl.org/). The preprint version is accessible via [this link](https://arxiv.org/abs/2403.11082).
 - **[January 2024]** Our paper titled [A Semantic, Syntactic, And Context-Aware Natural Language Adversarial Example Generator](https://ieeexplore.ieee.org/abstract/document/10416371) is published on the [IEEE Transactions on Dependable and Secure Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858).
 - **[December 2023]** Our paper on robust text representation is accepted by [Empirical Methods in Natural Language Processing](https://2023.emnlp.org/) (EMNLP Findings). The preprint version is accessible via [this link](https://aclanthology.org/2023.findings-emnlp.305/).
 - **[October 2023]** The source code for our robust text representation is available in the [RobustEmbed repository](https://github.com/jasl1/RobustEmbed).
