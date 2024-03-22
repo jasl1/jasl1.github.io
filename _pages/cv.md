@@ -100,7 +100,7 @@ redirect_from:
         <ul>
             <li>JOURNAL<br>Asl, Javad Rafiei, Mohammad H. Rafiei, Manar Alohaly, and Daniel Takabi. "A Semantic, Syntactic, And Context-Aware Natural Language Adversarial Example Generator." IEEE Transactions on Dependable and Secure Computing (2024), doi: 10.1109/TDSC.2024.3359817.</li>
             <li>Rafiei-Asl, Javad, and Ahmad Nickabadi. "TSAKE: A topical and structural automatic keyphrase extractor." Applied soft computing 58 (2017), doi: 10.1016/j.asoc.2017.05.014.</li>
-            <li>CONFERENCE<br>Javad Rafiei Asl, Prajwal Panzade, Eduardo Blanco, Daniel Takabi, Zhipeng Cai. "RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning." In The 2024 Conference on North American Chapter of the Association for Computational Linguistic. 2024.</li>
+            <li>CONFERENCE<br>Javad Rafiei Asl, Prajwal Panzade, Eduardo Blanco, Daniel Takabi, Zhipeng Cai. "RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning." Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics. 2024.</li>
             <li>Asl, Javad Rafiei, Eduardo Blanco, and Daniel Takabi. "RobustEmbed: Robust Sentence Embeddings Using Self-Supervised Contrastive Pre-Training." In The 2023 Conference on Empirical Methods in Natural Language Processing. 2023.</li>
             <li>Rafiei Asl, Javad, Salar Mohtaj, Vahid Zarrabi, and Habibollah Asghari. "Source retrieval plagiarism detection based on noun phrase and keyword phrase extraction—Notebook for PAN at CLEF 2015." In Proceedings of the Conference and Labs of the Evaluation Forum and Workshop (CLEF’15). 2015.</li>
         </ul>
