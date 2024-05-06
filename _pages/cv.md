@@ -27,7 +27,7 @@ redirect_from:
     <div class="section">
         <h2>EDUCATION</h2>
         <ul>
-            <li><strong>Doctor of Philosophy – Computer Science Department</strong><br>Jan 2019- May 2024<br>Georgia State University, GPA: 3.79/4.0, Atlanta, GA<br><a href="https://inspire.gsu.edu/">INSPIRE Center</a><br>Dissertation: “Design and Implementation of Robust Deep Neural Networks Against NLP Adversarial Attacks”</li>
+            <li><strong>Doctor of Philosophy – Computer Science Department</strong><br>Jan 2019- June 2024<br>Georgia State University, GPA: 3.79/4.0, Atlanta, GA<br><a href="https://inspire.gsu.edu/">INSPIRE Center</a><br>Dissertation: “Design and Implementation of Robust Deep Neural Networks Against NLP Adversarial Attacks”</li>
             <li><strong>Master of Science - School of Electrical and Computer Engineering</strong><br>2011-2014<br>University of Tehran, Medical Image Processing Laboratory, Tehran, Iran<br>Thesis: “Implementation of 3D Visualization for Medical Image Display”</li>
         </ul>
     </div>
@@ -37,11 +37,11 @@ redirect_from:
         <ul class="skills">
             <li>Python 3+</li>
             <li>PyTorch | Keras</li>
-            <li>HPC</li>
-            <li>ML | AI | NLP | R&D</li>
+            <li>NumPy</li>
+            <li>| ML | AI | NLP | R&D</li>
             <li>C/C++</li>
-            <li>Scikit-Learn (Sklearn)</li>
-            <li>Jupyter Notebook</li>
+            <li>Scikit-Learn (Sklearn) |</li>
+            <li>Generative AI</li>
             <li>Self-Supervised Learning | Semantic Representation</li>
             <li>OOP</li>
             <li>NLTK | spaCy</li>
@@ -50,9 +50,9 @@ redirect_from:
             <li>SQL</li>
             <li>NumPy | Pandas</li>
             <li>Adversarial Training</li>
-            <li>Self-Attention | Transformers | Generative AI</li>
-            <li>HuggingFace</li>
-            <li>LaTex</li>
+            <li>Self-Attention | Transformers | Semantic Representation</li>
+            <li>Communication</li>
+            <li>Operations Research</li>
             <li>Lucene | Lemur Toolkit</li>
             <li>Algorithm | Data Structure | AI Security</li>
         </ul>
@@ -66,8 +66,8 @@ redirect_from:
             <li>Shell | Linux</li>
             <li>CPU | GPU</li>
             <li>HTML | CSS | JavaScript | Node.js</li>
-            <li>Ubuntu</li>
-            <li>Gephi</li>
+            <li>Ubuntu | </li>
+            <li>Gephi | </li>
             <li>Distributed Training</li>
             <li>Image Segmentation | 3D Visualization</li>
             <li>Colab</li>
@@ -84,7 +84,7 @@ redirect_from:
             <li>MATLAB</li>
             <li>Scala | Spark</li>
             <li>Prompt Engineering</li>
-            <li>ML Optimization |Computer Vision (CV)</li>
+            <li>ML Optimization | Computer Vision (CV)</li>
         </ul>
     </div>
     <div class="section">
